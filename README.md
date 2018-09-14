@@ -1,7 +1,7 @@
 # Share-Activity-ML-1
 Explicación de método de Newton y BFGS para optimización en ML
 
-Link al video: (Coming soon)
+Link al video: https://youtu.be/h7iBOGRUN_s
 
 Referencias: 
 
